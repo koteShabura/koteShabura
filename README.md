@@ -6,6 +6,12 @@ I spend my time exploring learning more about AI, data analysis, and cybersecuri
 
 - 🔭 Currently practicing Rust, Python, web development and Linux 
 - 🌱 Learning AI, data science, and cybersecurity  
-- 💡 Always building things, solving problems, and picking up new skills  
+- 💡 Always building things, solving problems, and picking up new skills
+  
+# Tools & Tech  
+- Programming: Rust, Python, JavaScript  
+- Web: HTML, CSS, TailwindCSS and Figma  
+- OS & Systems: Linux (Ubuntu, Kali)  
+- Other: Git, Neovim
 
 Let's create something cool!
