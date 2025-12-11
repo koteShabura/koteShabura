@@ -35,14 +35,24 @@ I spend my time exploring learning more about AI, data analysis, and cybersecuri
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"> 📊 GitHub Stats:</h3>
 
 
 <div align="center">
 <a href="https://github.com/koteShabura">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koteShabura&theme=github_dark" height="180em" />
+  
+![](https://github-readme-stats.vercel.app/api?username=koteShabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=koteShabura&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koteShabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 </div>
+
+
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
