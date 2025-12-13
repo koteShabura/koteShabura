@@ -38,16 +38,23 @@ I spend my time exploring learning more about AI, data analysis, and cybersecuri
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"> 📊 GitHub Stats:</h3>
 
 
-<div align="center">
-<a href="https://github.com/koteShabura">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koteShabura&theme=github_dark" height="180em" />
-  
-![](https://github-readme-stats.vercel.app/api?username=koteShabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=koteShabura&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koteShabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+
+<div align="center" style="display:flex; flex-direction:column; gap:20px;">
+
+  <div style="display:flex; justify-content:center; gap:20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=koteShabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=koteShabura&theme=dark&hide_border=false" height="180em" />
+  </div>
+  <div style="display:flex; justify-content:center; gap:20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koteShabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koteShabura&theme=github_dark" height="180em" />
+  </div>
 
 </div>
+
 
 
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
