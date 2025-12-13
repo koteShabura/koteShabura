@@ -45,7 +45,6 @@ I spend my time exploring learning more about AI, data analysis, and cybersecuri
 <div align="center" style="display:flex; flex-direction:column; gap:20px;">
 
   <div style="display:flex; justify-content:center; gap:20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=koteShabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=koteShabura&theme=dark&hide_border=false" height="180em" />
   </div>
   <div style="display:flex; justify-content:center; gap:20px;">
